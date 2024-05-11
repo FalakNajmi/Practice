@@ -1,0 +1,4 @@
+[{BE09841-A513-11D0-A3A4-00C04FD706EC}]
+
+Iconarea_image="e:2.jpg"
+Iconarea_text=oxcc1500x
